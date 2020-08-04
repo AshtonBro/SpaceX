@@ -1,0 +1,16 @@
+body {
+    background: #010001;
+    margin: 0;
+}
+
+.header {
+    border: 1px solid red;
+    max-width: 1230px;
+    width: 90%;
+    margin: auto;
+    display: flex;
+}
+
+.list {
+    border: 1px solid blue;
+}
